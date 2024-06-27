@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "4VfN1aB4/Ko=",
+  "success": true,
+  "projectFilePath": "D:\\#STHEFANY\\DOCUMENTOS\\FIAP\\ANO 2\\FASE 4 - C#\\PROJETOS .NET\\SecureDrive\\SecureDrive.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sthef\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.6\\microsoft.dotnet.ilcompiler.8.0.6.nupkg.sha512",
+    "C:\\Users\\sthef\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.6\\microsoft.net.illink.tasks.8.0.6.nupkg.sha512",
+    "C:\\Users\\sthef\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\microsoft.visualstudio.azure.containers.tools.targets.1.20.1.nupkg.sha512",
+    "C:\\Users\\sthef\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.6\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
